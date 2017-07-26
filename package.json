@@ -1,0 +1,9 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Challenge to Backend job on Entria",
+  "main": "index.js",
+  "repository": "https://github.com/danielmadu/challenge",
+  "author": "Daniel Madureira",
+  "license": "MIT"
+}
